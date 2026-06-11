@@ -3,7 +3,7 @@ import { getLevelRotors, encryptMessage, caesarEncryptSegmented } from './enigma
 export const LEVEL_COUNT = 4
 
 const RAW_LEVELS = [
-  // Level 0 — César, 1 rotor, 3 min, 1 crib (tutorial)
+  // Level 0 — Caesar, 1 rotor, 3 min, 1 crib (tutorial)
   {
     cipherType: 'caesar',
     rotorCount: 1,
@@ -25,7 +25,7 @@ const RAW_LEVELS = [
     narrativeText:
       'Alan Turing arrives at Bletchley Park in September 1939, two days after Britain declares war on Germany. He is twenty-seven years old. Within months, he designs the Bombe — an electromechanical device that tests Enigma settings systematically, at a scale no human team could match.',
   },
-  // Level 1 — César, 2 rotors, 2 min, 1 crib per segment
+  // Level 1 — Caesar, 2 rotors, 2 min, 1 crib per segment
   {
     cipherType: 'caesar',
     rotorCount: 2,

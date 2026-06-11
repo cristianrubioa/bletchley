@@ -11,7 +11,7 @@ const FRAGMENTS = [
   },
 ]
 
-const FINAL_LINE = 'El hombre que salvó al mundo\nnunca pudo ser él mismo en él.'
+const FINAL_LINE = 'The man who saved the world\nwas never allowed to be himself in it.'
 
 const PARDON =
   'In 2013, Queen Elizabeth II granted Turing a posthumous Royal Pardon.\nIn 2017, the Turing Law extended pardons to thousands convicted under the same statute.\n\nToo late for Alan. Not too late to remember.'

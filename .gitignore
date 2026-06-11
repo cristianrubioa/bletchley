@@ -1,0 +1,26 @@
+# Compiled CSS (generated from input.css)
+static/css/main.css
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OpenSpec
+openspec/
+
+# Claude Code
+.claude/
+
+# Design docs
+docs/
